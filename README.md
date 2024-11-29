@@ -1,41 +1,43 @@
-# Modelo de Classificação de Categorias de Frases Predicativas
 
-Este repositório contém a implementação de um modelo para classificação de frases predicativas em categorias específicas, buscando identificar padrões de linguagem associados a diferentes aspectos de gênero e conotação.
+# Phrase Predicate Category Classification Model
 
-## Objetivo
+This repository contains the implementation of a model for classifying predicate phrases into specific categories, aiming to identify language patterns associated with different aspects of gender and connotation.
 
-O objetivo do projeto é classificar frases predicativas em uma das seguintes categorias:
+## Objective
 
-- **Aparência**: Adjetivos relacionados a características físicas ou estéticas.
-- **Sexual**: Adjetivos com conotação sexual ou hipersexualização.
-- **Papel Social**: Adjetivos que remetem a funções, status ou papéis atribuídos socialmente.
-- **Caráter**: Adjetivos que refletem traços de personalidade ou moral.
-- **Emoção**: Adjetivos que expressam sentimentos ou estados emocionais.
-- **Neutro**: Adjetivos que não se enquadram nas categorias acima.
+The objective of the project is to classify predicate phrases into one of the following categories:
 
-## Estrutura do Repositório
+- **Appearance**: Adjectives related to physical or aesthetic characteristics.  
+- **Sexual**: Adjectives with sexual connotation or hypersexualization.  
+- **Social Role**: Adjectives referring to functions, status, or socially assigned roles.  
+- **Character**: Adjectives that reflect personality traits or moral qualities.  
+- **Emotion**: Adjectives that express feelings or emotional states.  
+- **Neutral**: Adjectives that do not fit into the categories above.
 
-### Arquivos principais
+## Repository Structure
+
+### Main Files
 
 1. **`correspondencias.ipynb`**  
-   Este notebook contém o código para procurar correspondências entre um conjunto de mil adjetivos previamente anotados e um dataset de frases. A análise auxilia na identificação de padrões de frequência e categorias.
+   This notebook contains the code to search for matches between a set of one thousand pre-annotated adjectives and a dataset of phrases. The analysis helps identify frequency patterns and categories.
 
 2. **`categorização.ipynb`**  
-   Este notebook implementa o modelo de categorização utilizando o **BERTimbau**, incluindo etapas de pré-processamento, extração de embeddings e classificação das frases nas categorias definidas.
+   This notebook implements the categorization model using **BERTimbau**, including preprocessing steps, embedding extraction, and classification of phrases into the defined categories.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **Linguagem**: Python  
-- **Modelo pré-treinado**: [BERTimbau](https://github.com/neuralmind-ai/portuguese-bert)  
-  Utilizado para extrair representações semânticas robustas de frases em português.
-- **Bibliotecas principais**:
-  - Hugging Face Transformers para o uso do BERTimbau
-  - SpaCy para análise de linguagem natural
-  - Pandas e NumPy para manipulação de dados
+- **Language**: Python  
+- **Pre-trained Model**: [BERTimbau](https://github.com/neuralmind-ai/portuguese-bert)  
+  Used to extract robust semantic representations of Portuguese phrases.  
+- **Main Libraries**:  
+  - Hugging Face Transformers for using BERTimbau  
+  - SpaCy for natural language analysis  
+  - Pandas and NumPy for data manipulation
 
-## Como Usar
+## How to Use
 
-1. **Clone o repositório:**
+1. **Clone the repository:** 
+
    ```bash
    git clone https://github.com/firminovitoria/profissoes-categorias.git
    cd profissoes-categorias
