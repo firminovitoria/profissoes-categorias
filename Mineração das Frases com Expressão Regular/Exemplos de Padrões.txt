@@ -1,0 +1,83 @@
+﻿Exemplos de Padrões:
+
+
+1. Sujeito/Nome Próprio/Pronome + Auxiliar + Adjetivo
+   1. Ela é cheirosa
+2. Sujeito/Nome Próprio/Pronome + Auxiliar + Advérbio + Adjetivo
+   1. Ela é muito cheirosa
+3. Sujeito/Nome Próprio/Pronome + Auxiliar + Auxiliar + Adjetivo
+   1. Ela está sendo chata
+4. Sujeito/Nome Próprio/Pronome + Auxiliar + Auxiliar + Advérbio  + Adjetivo
+   1. Ela está sendo muito chata
+5. Sujeito/Nome Próprio/Pronome + Auxiliar + Verbo + Adjetivo
+   1. Ela está ficando incomodada
+6. Sujeito/Nome Próprio/Pronome + Auxiliar + Verbo + Advérbio + Adjetivo
+   1. Ela está ficando muito incomodada
+7. Sujeito/Nome Próprio/Pronome + Verbo + Auxiliar + Adjetivo
+   1. Ela acabou sendo injusta
+8. Sujeito/Nome Próprio/Pronome + Verbo + Auxiliar + Advérbio + Adjetivo
+   1. Ela vive sendo muito injusta
+9. Sujeito/Nome Próprio/Pronome + Auxiliar + Verbo no Particípio
+   1. Ela foi educada
+10. Sujeito/Nome Próprio/Pronome + Auxiliar + Advérbio + Verbo Particípio 
+   1. Ela foi muito educada
+11. Sujeito/Nome Próprio/Pronome + Verbo + Adjetivo 
+   1. Ela ficou feia
+12. Sujeito/Nome Próprio/Pronome + Verbo + Advérbio + Adjetivo
+   1. Ela ficou muito feia
+13. Sujeito/Nome Próprio/Pronome + Adjetivo
+   1. Menina aventureira
+14. Sujeito/Nome Próprio/Pronome + Pronome +  Verbo + Adjetivo 
+   1. Ela se tornou arrogante
+15. Sujeito/Nome Próprio/Pronome +Pronome +  Verbo + Adjetivo
+   1. Ela se tornou muito arrogante
+16. Sujeito/Nome Próprio/Pronome + Auxiliar + Pronome +  Verbo + Adjetivo
+   1. Ela está se tornando arrogante
+17. Sujeito/Nome Próprio/Pronome + Auxiliar + Pronome +  Verbo + Advérbio + Adjetivo
+   1. Ela está se tornando muito arrogante
+18. Sujeito/Nome Próprio/Pronome + Verbo + Pronome + Verbo + Adjetivo
+   1. Ela ficou se achando incrível
+19. Sujeito/Nome Próprio/Pronome + Verbo + Pronome +  Verbo + Advérbio + Adjetivo
+   1. Ela ficou se achando muito incrível
+20. Sujeito/Nome Próprio/Pronome + Pontuação + Adjetivo (Aposto Descritivo) 
+   1. Menina, travessa.
+21. Sujeito/Nome Próprio/Pronome + Pontuação + Determinante + Adjetivo (Aposto Descritivo) 
+   1. Mariana, a valente.
+22. Sujeito/Nome Próprio/Pronome + Auxiliar + Substantivo
+   1. Ela é puta
+23. Sujeito/Nome Próprio/Pronome + Auxiliar + Advérbio + Substantivo
+   1. Ela é muito puta
+24. Sujeito/Nome Próprio/Pronome + Auxiliar + Auxiliar + Substantivo
+   1. Ela está sendo parceira
+25. Sujeito/Nome Próprio/Pronome + Auxiliar + Auxiliar + Advérbio + Substantivo
+   1. Ela está sendo muito parceira
+26. Sujeito/Nome Próprio/Pronome + Auxiliar + Verbo + Substantivo
+   1. Ela está virando líder 
+27. Sujeito/Nome Próprio/Pronome + Auxiliar + Verbo + Advérbio + Substantivo
+   1. Ela está ficando muito puta
+28. Sujeito/Nome Próprio/Pronome + Verbo + Auxiliar + Substantivo
+   1. Ela ficou sendo chefe
+29. Sujeito/Nome Próprio/Pronome + Verbo + Auxiliar + Advérbio + Substantivo
+   1. Ela permanece sendo pouco exemplo
+30. Sujeito/Nome Próprio/Pronome + Verbo + Substantivo
+   1. Ela virou chefe
+31. Sujeito/Nome Próprio/Pronome + Verbo + Advérbio + Substantivo
+   1. Ela ficou muito puta
+32. Sujeito/Nome Próprio/Pronome + Substantivo
+   1. Mariana vaca
+33. Sujeito/Nome Próprio/Pronome + Pronome +  Verbo + Substantivo
+   1. Ela se tornou referência
+34. Sujeito/Nome Próprio/Pronome + Pronome +  Verbo + Advérbio + Substantivo
+   1. Ela se tornou possivelmente doutora
+35. Sujeito/Nome Próprio/Pronome + Auxiliar + Pronome +  Verbo + Substantivo
+   1. Ela está se tornando chefe
+36. Sujeito/Nome Próprio/Pronome + Auxiliar + Pronome +  Verbo + Advérbio + Substantivo
+   1. Ela está se tornando possivelmente mestre
+37. Sujeito/Nome Próprio/Pronome + Verbo + Pronome + Verbo + Substantivo
+   1. Ela ficou se achando líder
+38. Sujeito/Nome Próprio/Pronome + Verbo + Pronome +  Verbo + Advérbio + Substantivo
+   1. Ela ficou se achando bastante líder
+39. Sujeito/Nome Próprio/Pronome + Pontuação + Substantivo (Aposto Descritivo)
+   1. Mariana, vaca
+40. Sujeito/Nome Próprio/Pronome + Pontuação + Determinante + Substantivo (Aposto Descritivo) 
+   1. Mariana, uma vaca
